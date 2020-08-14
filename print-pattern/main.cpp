@@ -46,3 +46,4 @@ void printPat(int n)
             i--;
         }
 }
+
