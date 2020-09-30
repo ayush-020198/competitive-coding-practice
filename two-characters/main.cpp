@@ -7,15 +7,16 @@ string rtrim(const string &);
 
 // Complete the alternate function below.
 int alternate(string s) {
+// for string manipulation, tempold is taken.
     string tempold=s;
-    
+//characters taken for combination.
     char x, y;
     int max=0, count=0;
 
     sort(tempold.begin(), tempold.end());
 
     vector<char> temp,temp2;
-
+//temp vector for unique elements
     auto ip=unique(tempold.begin(), tempold.end());
     tempold.resize(distance(tempold.begin(),ip));
     for (ip = tempold.begin(); ip != tempold.end(); ++ip) { 
