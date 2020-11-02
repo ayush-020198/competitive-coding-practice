@@ -1,2 +1,2 @@
-# Google-Kickstart-Practice
-Past questions from Google Kickstart and some questions from geeksforgeeks, hackerrank, and codechef for practice purpose.
+# Competitve-Coding-Practice
+Questions from Google Kickstart, Hackerrank, and Geeksforgeeks along with my solutions. (For practice purpose)
